@@ -1,0 +1,1 @@
+Once we've cloned the code and have it locally, we can initialize terraform and run our build!
