@@ -16,12 +16,12 @@ audio_folder_path.mkdir(parents=True, exist_ok=True)
 text_folder_path.mkdir(parents=True, exist_ok=True)
 
 # File paths
-FILENAME = "001"
+FILENAME = "004"
 speech_file_path = audio_folder_path / f"{FILENAME}.mp3"
 text_file_path = text_folder_path / f"{FILENAME}.txt"
 
 # Enter the text you want to convert to speech!
-TEXT_INPUT = '''Hi and welcome to this short video on how devops practices can be implemented for content creation!'''
+TEXT_INPUT = ''' To access it in PNG, simply push your new drawio diagram to github, a github action will take care of the rest!'''
 
 # Write text to file
 with open(text_file_path, 'w', encoding='utf-8') as text_file:

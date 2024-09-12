@@ -1,1 +1,1 @@
-First things first! In our tutorial, we'll be forking the repository hosting our Terraform code!
+First things first! In our tutorial, we'll be forking the repository hosting our Terraform code! Once we've cloned the code and have it locally
